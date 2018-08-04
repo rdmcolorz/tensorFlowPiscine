@@ -1,3 +1,7 @@
+.*
 voiceRec/input
 voiceRec/transfer_chk
 voiceRec/transfer_chkpt
+voiceRec/pyenv
+voiceRec/tpu
+voiceRec/yes_no_data
